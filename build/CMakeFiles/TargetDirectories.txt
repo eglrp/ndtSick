@@ -1,0 +1,3 @@
+/home/xiesc/xieshichao/sickNDT/build/CMakeFiles/edit_cache.dir
+/home/xiesc/xieshichao/sickNDT/build/CMakeFiles/rebuild_cache.dir
+/home/xiesc/xieshichao/sickNDT/build/CMakeFiles/NDTRegistration.dir
